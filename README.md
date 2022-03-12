@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> pkg update && pkg upgrade
+
 --> pkg install python3
+
 --> pkg install requests
+
 --> pip2 install mechanize
---> git clone https://github.com/tanjiro/cr4ck
+
+--> git clone https://github.com/tanjiro/cr4c
+k
 --> cd tanjiro
+
 --> git pull
+
 --> python tanjiro.py
