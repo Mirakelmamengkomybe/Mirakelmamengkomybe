@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 --> pip2 install mechanize
 
---> git clone https://github.com/tanjiro/cr4c
-k
+--> git clone https://github.com/tanjiro/cr4ck
+
 --> cd tanjiro
 
 --> git pull
